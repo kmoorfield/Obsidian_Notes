@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "fec2afb36b0348ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5921d004ebdc6f2",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "027d862d5ef1f309",
+    "type": "split",
+    "children": [
+      {
+        "id": "21ef46dc5c8fd52b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0f44db36f0299c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec96d282b29fe938",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a95ca016498294a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f9b766f3a7e07f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d9a6529117c5a61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c5921d004ebdc6f2",
+  "lastOpenFiles": [
+    "README.md",
+    "Notes/Table of Contents.md",
+    "Notes/Side Project Notes.md",
+    "Notes/How To Guide.md",
+    "Side Project Notes.md",
+    "Table of Contents.md",
+    "How To Guide.md",
+    "Api Server Readme.md",
+    "Api Script Readme.md",
+    "Hello World.md"
+  ]
+}
