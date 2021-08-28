@@ -5,8 +5,6 @@ aliases: [Side Project Work, Roadmap]
 ```mermaid
 graph TD
 
-Readmes[Finish off Readmes]
-Github_Repos[Make repos public]
 Angular_App[Create Angular UI for API]
 API_Versioning[Add in ability to support Cat Facts and version API]
 ActiveMQ_Queue[Add ActiveMQ queue to store all API requests from the UI]
@@ -19,8 +17,6 @@ Docker_AKS[Automate API Server deployment into AKS]
 Pulumi_GCP[Deploy K8s Cluster within GCP using Pulumi]
 Docker_GCP[Automate API server deployment into GCP]
 
-Readmes --> Github_Repos
-Github_Repos --> Angular_App
 Angular_App --> API_Versioning
 API_Versioning --> ActiveMQ_Queue
 ActiveMQ_Queue --> Security_Scanning
@@ -32,5 +28,5 @@ Pulumi_AKS --> Docker_AKS
 Docker_AKS --> Pulumi_GCP
 Pulumi_GCP --> Docker_GCP
 
-class Readmes,Github_Repos,Angular_App,API_Versioning,ActiveMQ_Queue,Security_Scanning,Pulumi,Pulumi_EKS,Docker_EKS,Pulumi_AKS,Docker_AKS,Pulumi_GCP,Docker_GCP internal-link;
+class Angular_App,API_Versioning,ActiveMQ_Queue,Security_Scanning,Pulumi,Pulumi_EKS,Docker_EKS,Pulumi_AKS,Docker_AKS,Pulumi_GCP,Docker_GCP internal-link;
 ```

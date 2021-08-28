@@ -12,10 +12,10 @@ aliases: [Side Project Work, Improvements, Achievements]
 - [x] Refine Locust Load Tests to catch exceptions on deletes
 - [x] Add randomisation into Locust Load Tests Ordering
 - [x] Upload all code to Github Repos
+- [x] Finish off Readme Files for C# Api Script / Server / Obsidian Notes repos
+- [x] Make the repos public when Readmes are done
 
 # Things left to do:
-- [ ] Finish off Readme Files for C# Api Script / Server / Obsidian Notes repos
-- [ ] Make the repos public when Readmes are done
 - [ ] Add in Angular UI App front end for API Server
 - [ ] Add in the ability to support "Cat Facts" and version the API to support this
 - [ ] Add in ActiveMQ local queue for use between UI + API Server
