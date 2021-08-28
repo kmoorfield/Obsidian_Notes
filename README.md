@@ -13,5 +13,8 @@ All of the actual Roadmap + Side Project Notes are located within, alongside a "
 
 "Obsidian" can also be used to make diagrams via "Mermaid" technology, as well as give the user the abiity to export any of the notes into PDF format.</br>
 
+## Disclaimer
+Feel free for anyone to copy / use this in any way as part of educational learning only!
+
 ## Side Project Roadmap
 ![Roadmap](Roadmap.png)
